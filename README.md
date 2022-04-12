@@ -1,7 +1,7 @@
 ### Hi there I am Denyse👋
 some of my recent cool works may be found here ⏭️⏭️ [my works](https://docs.google.com/document/d/1dOxgr1mChNzNptamp3KEAUrWL89QxvQ5Qj6eormEHPs/edit)
 - 🔭 I'm currently working on Findapart 😊
-- 🌱 I'm currently learning ML/AI
+- 🌱 I'm currently learning Devops
 - 👯 I'm looking to collaborate on open source projects
 - 💬 Ask me about Dart/flutter
 - 📫 How to reach me: mdenyse15@gmail.com
