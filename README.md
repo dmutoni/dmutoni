@@ -8,3 +8,7 @@
 - ⚡ Fun fact: smiling is my hobby 😂
 
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=dmutoni&theme=github&hide_border=true&bg_color=0d1117&area_color=1f6fea&line=38d252&point=1f6fea&color=fefefe)
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmutoni&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php" />
+</p>
